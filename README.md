@@ -23,7 +23,9 @@ SQLite3: Banco de dados leve e embutido para armazenamento de dados das vendas.
 Pandas: Biblioteca para manipulação e análise de dados, utilizada na exportação para Excel.
 Openpyxl / XlsxWriter: Dependências do Pandas para escrita de arquivos Excel.
 
-![Captura de tela 2025-06-06 081904](https://github.com/user-attachments/assets/b5254a5f-40f8-4a09-b79d-fcb8a3cf26d6)
+
+![Captura de tela 2025-06-06 081904](https://github.com/user-attachments/assets/d2cc1cd4-709b-419b-aaed-93017c68efa9)
+
 
 
 🚀 Como Executar o Projeto
