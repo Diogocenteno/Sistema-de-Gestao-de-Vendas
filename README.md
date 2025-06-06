@@ -1,6 +1,6 @@
 Sistema de Gestão de Vendas 
 🍞 Sobre o Projeto
-O Sistema de Gestão de Vendas - Padaria do Jeff e Pri é uma aplicação desktop intuitiva, desenvolvida em Python com tkinter e ttkbootstrap, projetada para otimizar o registro e a organização das vendas diárias de uma padaria ou pequeno comércio. Com ele, você pode facilmente registrar vendas, gerenciar informações de clientes, produtos e vendedores, além de ter recursos adicionais que facilitam o dia a dia.
+O Sistema de Gestão de Vendas é uma aplicação desktop intuitiva, desenvolvida em Python com tkinter e ttkbootstrap, projetada para otimizar o registro e a organização das vendas diárias de uma padaria ou pequeno comércio. Com ele, você pode facilmente registrar vendas, gerenciar informações de clientes, produtos e vendedores, além de ter recursos adicionais que facilitam o dia a dia.
 
 Este projeto visa proporcionar uma solução prática e eficiente para acompanhar o fluxo de caixa e o histórico de transações, permitindo exportar dados para análise e manter um controle rigoroso de encomendas e anotações importantes.
 
@@ -23,7 +23,8 @@ SQLite3: Banco de dados leve e embutido para armazenamento de dados das vendas.
 Pandas: Biblioteca para manipulação e análise de dados, utilizada na exportação para Excel.
 Openpyxl / XlsxWriter: Dependências do Pandas para escrita de arquivos Excel.
 
-![Captura de tela 2025-06-04 075706](https://github.com/user-attachments/assets/49249709-d31d-4c6b-9e10-46613f9fc34e)
+![Captura de tela 2025-06-06 081904](https://github.com/user-attachments/assets/b5254a5f-40f8-4a09-b79d-fcb8a3cf26d6)
+
 
 🚀 Como Executar o Projeto
 
